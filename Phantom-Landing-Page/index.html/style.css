@@ -1,0 +1,33 @@
+body::before {
+    display: block;
+    content: '';
+    height: 60px;
+  }
+  
+  
+@media (min-width: 768px) {
+    .news-input {
+      width: 50%;
+    }
+  }
+ 
+.popper{
+    width: 110px;
+}
+  .cop{
+    width:30px;
+  }
+  .flag{
+    width:40px;
+  }
+.mask{
+    width:25px;
+} 
+
+.phone{
+    width:50px
+} 
+
+.clock{
+    width:50px;
+}
